@@ -1,0 +1,169 @@
+C Language Training by Mr.Prakash
+===========================
+For more programs and ppts: Visit My Blog : winsoftbvrm.blogspot.com
+
+Flavours of C
+---------------------	
+Name of C		Platform
+ANSI		Unix
+Dynamic		Linux
+TurboC		MS-DOS
+Borland C		Windows
+Microsoft C	Windows
+ProC		Oracle
+
+Background Files in TurboC/DevC
+-------------------------------------------------
+1. College.c	-	source code
+2. College.bak	-	backup file
+3. College.obj	-	object file
+4. College.exe	-	executable file
+
+
+Variable declarations
+I	-	P	-	O
+
+gets()	- to read a string with multiple words
+scanf("[\n%s]",name);
+
+fflush(stdin);
+
+Format Specifiers
+------------------------
+%d	int
+%f	float
+%c 	char
+%s	string
+%ld	long int
+%u	unsigned
+%i	int
+
+Escape Sequences
+--------------------------
+\n	-	new line
+\t	-	new tab
+\b	-	backspace
+\a	-	alert
+\\	-	backslash
+\'	-	single quote
+\"	-	double quotes
+
+	"Hello world"
+
+int main(int argc, char *argv[])
+{
+	printf("\n Hello world ");
+	return(0);
+}
+
+
+
+
+Operators
+-------------
+Arithmetical
+	+
+	-
+	*
+	/
+	%
+
+Logical:
+	&&
+	||
+	!
+
+Relational:
+	<
+	>
+	<=
+	>=
+	==
+	!=
+
+Assignment
+	=
+
+Arithmetic Assignment
+	+=
+	-=
+	*=
+	/=
+
+Conditional / Ternary 
+	?	:
+
+Misc Operators
+	*
+	.
+	->
+	&
+
+Control Statements:
+--------------------------
+I. Conditional Control Statements
+	* if
+	* if else
+	* else if (nested if )
+
+II. Case Control Statement
+	* switch
+
+III. Loop Control Statements
+	* while
+	* do while
+	* for
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
